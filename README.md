@@ -1,6 +1,6 @@
 # LEGO Classification 
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> A Neural Network created using python for recognition of different models of pieces of LEGO .
+<!-- Live demo [_here_](https://www.example.com). -- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,7 +17,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- It a project in which it was made different version of multiples nerual network, making some changes between them, in order for imrpoving the results acurracy, a documentation was made for all the process and finally it was check the accuracy with some test images.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
@@ -72,14 +72,12 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- This project was inspired by [STPETE_ISHII](https://www.kaggle.com/code/stpeteishii/b200c-lego-classify-conv2d)
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [JpCobos](josepablocobos.a@gmail.com) - feel free to contact me!
 
 
 <!-- Optional -->
