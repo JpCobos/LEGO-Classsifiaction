@@ -56,28 +56,19 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _complete_
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+Adjustement to the final model can be made in the parameters or even try another model
 
 
 ## Acknowledgements
 
-- This project was inspired by [STPETE_ISHII](https://www.kaggle.com/code/stpeteishii/b200c-lego-classify-conv2d)
+- This project was inspired by [STPETE_ISHII - B200C LEGO Classify Conv2D](https://www.kaggle.com/code/stpeteishii/b200c-lego-classify-conv2d)
 
 
 ## Contact
-Created by [JpCobos](josepablocobos.a@gmail.com) - feel free to contact me!
+Created by [JpCobos](https://www.linkedin.com/in/jpcobos/) - feel free to contact me!
 
 
 <!-- Optional -->
